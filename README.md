@@ -5,4 +5,4 @@
 <a/> <br /> 
  Here are my projects <br />     
  ### Language and tools i works with:
- <code><img src="https://logospng.org/wp-content/uploads/java.png" width="25px"></code>
+ <code><img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" width="30px"></code>
