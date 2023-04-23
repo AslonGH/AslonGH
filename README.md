@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi i'm Aslon Badridinov <img src="<iframe src="https://giphy.com/embed/H5OcJyyzY25aqofOiS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pepephone-pepe-pepephone-nuevo-H5OcJyyzY25aqofOiS">via GIPHY</a></p>" width="30px"> 
 
 <!--
 **AslonGH/AslonGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
