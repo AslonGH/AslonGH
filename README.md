@@ -3,4 +3,6 @@
  I successfully completed my studies in Java Backend Development at "PDP IT ACADEMY" in Uzbekistan.
 <a href="https://online.pdp.uz/"> <img src="https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/304872440_777258217023182_4535037376026985473_n.png?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=wNo4hlw52xQAX-C0HXp&_nc_ht=scontent-ham3-1.xx&oh=00_AfDj77g3oq6WWve2WaqVSHNSJT0c-trmp6PIGI4qkWuwhg&oe=6448E3FB" width="25px">
 <a/> <br /> 
- Here are my projects <br />                                    
+ Here are my projects <br />     
+ ### Language and tools i works with:
+ <code><img src="https://logospng.org/wp-content/uploads/java.png" width="25px"></code>
