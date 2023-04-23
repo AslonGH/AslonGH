@@ -1,1 +1,2 @@
-### Hi,  i'm Aslon Badridinov <img src="[https://giphy.com/embed/H5OcJyyzY25aqofOiS" width="480" height="480" frameBorder="0" class="giphy-embed](https://media4.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif?cid=ecf05e47qj2nf1uj5etfna7ewzr5q91mpxf5x5qt0ncmavyb&rid=giphy.gif&ct=g)" width="30px"
+### Hi,  i'm Aslon Badridinov <img src="https://media4.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif?cid=ecf05e47qj2nf1uj5etfna7ewzr5q91mpxf5x5qt0ncmavyb&rid=giphy.gif&ct=g" width="30px">
+                                   
