@@ -1,7 +1,7 @@
 ### Hi, i'm Aslon Badridinov <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFiZTQzMzJmN2FmZTZjNmRjYmVjZDE1ZWZmZmQ5NTNlZDJhMzgwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/gM5qFksULw54NMWyry/giphy.gif" width="30px">
 
  I successfully completed my studies in Java Backend Development at "PDP IT ACADEMY" in Uzbekistan.
-<a href="https://online.pdp.uz/"> <img src="" width="25px">
+<a href="https://online.pdp.uz/"> <img src"C:\Users\abs1_\OneDrive\Dokumente\PDP_IT_Academy-01.png" width="25px">
 <a/> <br /> 
  Here are my projects <br />     
  ### Language and tools i works with:
