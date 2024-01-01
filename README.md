@@ -1,6 +1,6 @@
 ### Hi, i'm Aslon Badridinov <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFiZTQzMzJmN2FmZTZjNmRjYmVjZDE1ZWZmZmQ5NTNlZDJhMzgwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/gM5qFksULw54NMWyry/giphy.gif" width="30px">
 
- I successfully completed my studies in Java Backend Development at "PDP IT ACADEMY" in Uzbekistan.
+ I successfully completed my study Java Backend Development at ...
 <a href="https://online.pdp.uz/">
 <a/> <br /> 
  Here are my projects <br />     
